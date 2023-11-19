@@ -17,15 +17,15 @@ The script performs several key functions:
 
 ## Usage
 
-To use the script, simply run it in a Google Colab notebook. It will prompt for the number of samples to process and then execute the following steps:
+To use the script, simply [run it in a Google Colab notebook](https://colab.research.google.com/drive/1faL_AErR2wnS9vr3EX1p1FRF5pzdrDnv?usp=sharing). It will prompt for the number of samples to process and then execute the following steps:
 
-1. Generate random search phrases and download corresponding audio from YouTube.
-2. Process the audio to create one-shot`dodgylegally/wavs/oneshot/` and loop `dodgylegally/wavs/loop/` samples
-3. Combine looped samples into a single audio file, incrementing the version number to avoid overwriting. You can find it in `dodgylegally/wavs/processed/combined/`
+1. Generates random search phrases in `birdwater.txt` and downloads corresponding audio from YouTube.
+2. Processes the audio to create one-shot`dodgylegally/wavs/oneshot/` and loop `dodgylegally/wavs/loop/` samples
+3. Combines looped samples into a single audio file that repeats each sample 3-4 times, incrementing the version number to avoid overwriting. You can find it in `dodgylegally/wavs/processed/combined/`
 
 ## Customization
 
-You can customize various aspects of the script, such as the batch size for downloads, the base directory in Google Drive, and the structure of the output directories.
+You can easily customize various aspects of the script, such as the batch size for downloads, the base directory in Google Drive, and the structure of the output directories.
 
 ## Acknowledgements
 
