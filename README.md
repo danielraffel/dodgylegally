@@ -1,5 +1,5 @@
 # dodgylegally
-This repository contains a Python script designed for creative audio processing and sampling. The script, inspired by work from [Colugo Music](https://x.com/ColugoMusic/status/1726001266180956440?s=20), is a versatile tool for anyone interested in generating unique sound samples from YouTube videos. 
+This repository contains a Google Colab Python script designed for creative audio processing and sampling. The script, inspired by work from [Colugo Music](https://x.com/ColugoMusic/status/1726001266180956440?s=20), is a versatile tool for anyone interested in generating unique sound samples from YouTube videos. 
 
 ## Overview
 
