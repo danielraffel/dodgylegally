@@ -35,4 +35,4 @@ This script was hacked together by Daniel Raffel, based on the original work sha
 
 ## License
 
-This project is open-source and since it's based on a script by [Colugo Music](https://x.com/ColugoMusic/status/1726001266180956440?s=20) that had no licensing I have not added a license to this repo at this time. If a request is made to add a license this will be updated. Feel free to use, modify, and distribute as per the license agreement (if there ever is one!)
+This project is open-source and based on a script by [Colugo Music](https://x.com/ColugoMusic/status/1726001266180956440?s=20) that has [been released to the public doman](https://x.com/ColugoMusic/status/1726239468175417743?s=20). Feel free to use, modify, and distribute as desired there is no license.
